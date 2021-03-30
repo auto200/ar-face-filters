@@ -28,12 +28,12 @@
       entry: "./assets/testo.png",
       background: "radial-gradient(hsl(243, 40%, 26%), hsl(243, 60%, 17%))",
     },
-    //, {
-    // 	handle: 'Jamini Roy',
-    // 	url: 'https://en.wikipedia.org/wiki/Jamini_Roy#Style',
-    // 	entry: './assets/jamini-mother-mask.jpg',
-    // 	background: 'radial-gradient(rgb(132, 0, 0), rgb(87, 0, 0))'
-    // }
+    {
+      handle: "Camaro",
+      url: "https://en.wikipedia.org/wiki/Jamini_Roy#Style",
+      entry: "./assets/chmaro.jpg",
+      background: "radial-gradient(rgb(132, 0, 0), rgb(87, 0, 0))",
+    },
   ];
 
   var videoFormats = ["mov", "m4v", "mp4"];
